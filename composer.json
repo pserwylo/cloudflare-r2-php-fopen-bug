@@ -1,0 +1,15 @@
+{
+    "name": "root/r2-test",
+    "require": {
+        "aws/aws-sdk-php": "3.184.6"
+    },
+    "authors": [
+        {
+            "name": "Peter Serwylo",
+            "email": "peter@serwylo.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    }
+}
